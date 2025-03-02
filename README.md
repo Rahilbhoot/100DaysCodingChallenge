@@ -17,17 +17,10 @@ Welcome to my **100 Days of Code** challenge! 🚀 This repository is where I'll
 
 ## Daily Progress 📅
 
-### Day 1: [DATE]
+### Day 1: [02-03-2025]
 - **What I did:**
 - **Challenges faced:**
 - **Learnings:**
-
-### Day 2: [DATE]
-- **What I did:**
-- **Challenges faced:**
-- **Learnings:**
-
-(Continue updating daily...)
 
 ## Resources 📚
 Here are some useful resources I might use during my challenge:
