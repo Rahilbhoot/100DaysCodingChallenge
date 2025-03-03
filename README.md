@@ -21,7 +21,7 @@ Welcome to my **100 Days of Code** challenge! 🚀 This repository is where I'll
 - **What I did: I am watching Sigma Web Development course by CodeWithHarry on YouTube**
 - **Challenges faced:**
 - **Learnings:**
-- **Video 54 of playlist**
+1. **Video 54 of playlist**
 -> I learned about starting concepts of javascript like methods to include JavaScript in our HTML file and got some idea about some properties of JavaScript like 'alert','prompt' & 'confirm'.I build an HTML file and then included this properties in it and tested them. Today I had started my JavaScript Revision Journey. So, it was fun. 
 
 ## Resources 📚
