@@ -30,6 +30,18 @@ Welcome to my **100 Days of Code** challenge! 🚀 This repository is where I'll
   3. **Video 56 of playlist**
   -> In this video I learned about expressions and conditionals in JavaScript. The main topics for today was If statements, If-else statements, I-else ladder which are conditional statements in JS. Secondly, I learned about operators in Javascript namely : 'Arithmatic operator', 'Assignment operator', 'Comparision operator' & 'Logical operator'. Today also learned about comments and types of comments in JS. The topic in the end was ternary operator in JavaScript which was intresting and challenging to understand.
 
+
+### Day 2: [04-03-2025]
+- **What I did: Today I learned about Loops and Functions in JS**
+- **Challenges faced: I solved Practice set of chapter 2 from CodeWithHarry Notes.**
+- **Learnings:**
+  1. **Video 57 of playlist**
+  -> In this Video Harry cleared the concepts of Loops and types of Loops in JavaScript. I learned about forloop, while loop, do while loop, for in loop, forof loop. forin loop & forof loop were new for me but harry cleared the concept of them very well. They are basically used to iterate data structures like object, arrays & string ect.
+  
+  2. **Video 58 of playlist**
+  -> In this video harry cleared the concepts of Functions in JS. So, basically function is a block of code that can store the code that is repeatedly been changed and has been used widely. He also gave us information about the default parameters in functions which was intresting. The new concept which I learned today in this video was Arrow function in JS. Arrow functions are basically stored in a variable and it was also very usefull and intresting topic to learn. Today I also completed the chapter 2 practice set given by harry which was totally based on yesterday's learning.
+  
+
 ## Resources 📚
 Here are some useful resources I might use during my challenge:
 - [W3Schools](https://www.w3schools.com/)
